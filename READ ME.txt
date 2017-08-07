@@ -1,0 +1,18 @@
+ICT4GOV S21
+GROUP4 ISIT
+
+Members:
+De Vera, Christopher Diego T.
+Delgado, Alyzza May DC.
+Martin, Tristan Emmanuel Q.
+Mojica, Kian Nikolai Y.
+BS CS-IST
+BS IT
+
+DATABASE PROPERTIES:
+username: birdb
+password: dlsu1234
+schema: birdb
+
+DATE OF SUBMISSION:
+27 March 2017

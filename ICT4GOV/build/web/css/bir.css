@@ -1,0 +1,285 @@
+body {
+  background: url("../img/bir.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+  color: #fff;
+}
+
+span {
+  color: #003399;
+}
+
+span .time-color {
+  color: #003399;
+}
+
+p {
+  color: white;
+}
+
+a:hover {
+  color: #999;
+}
+
+a h4 {
+  color: #000;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.col-centered {
+  margin-top: 10%;
+    display:inline-block;
+    float:none;
+    text-align:left;
+    vertical-align: middle;
+    margin-right:-4px;
+}
+
+nav {
+  background: #003399;
+}
+
+/* login style code start*/
+
+#login {
+  background-color: #003399;
+  height: 50%;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 2%;
+  border-radius: 25px;
+}
+
+#login img{
+  width: 22%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#login h1 {
+  text-align: center;
+}
+
+#login form {
+  text-align: left;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+
+#login label {
+  color: white;
+}
+
+/* login style code end*/
+
+/* main style code start */
+
+.main {
+  background-color: #003399;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  border-radius: 25px;
+  padding: 15px 50px 20px 50px;
+  width: auto;
+}
+
+
+.view-nav {
+  text-align: center;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.view-nav p {
+    color: eee;
+}
+
+
+.view-edit {
+  color: white;
+}
+
+.main-nav:hover{
+  background-color: #fff;
+}
+
+.main-nav a:hover{
+  text-decoration: none;
+}
+
+.main-nav p{
+  color: #000;
+}
+
+/* main style code end */
+
+.tab-1, .tab-2 {
+  display: none;
+}
+
+.book {
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+
+.tab-0, .tab-1, .tab-2 {
+  padding-top: 10px;
+}
+
+.sub-btn {
+  margin-top: 5px;
+  margin-right: 20px;
+  float: right;
+}
+
+.eqp-btn {
+  background: transparent;
+  border: 1px #ccc solid;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+}
+
+.actions {
+  position: relative;
+  float: right;
+  text-align: right;
+  margin-right: 10px;
+  margin-top: -33px;
+}
+
+
+/* - - - - - - - - - - - - - - - - - - - */
+
+.book label {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+.view-size {
+  font-size: 16px;
+  color: #000000;
+}
+
+.rev-center {
+  text-align: center;
+}
+
+.booking{
+  border-radius: 15px;
+  background-color: #eee;
+}
+
+.accept{
+  border-radius: 15px;
+  background-color: #5CB85C;
+}
+
+.decline{
+  border-radius: 15px;
+  background-color: #e07572;
+}
+
+.controls .btn{
+  background: transparent;
+  border: none;
+}
+
+.controls{
+  background: transparent;
+  border: none;
+  float: right;
+}
+
+.booking .details {
+  margin-top: 0px;
+  float: left;
+}
+
+.booking {
+  padding: 10px 10px 10px 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.offer img {
+  width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.offer {
+  margin-bottom: 10px;
+}
+
+.tagline {
+  color: #ccc;
+  font-weight: lighter;
+  font-size: 18px;
+  /*background: #eee;*/
+}
+
+.e-title {
+  color: white;
+}
+
+.main h1 {
+  color: white;
+}
+
+.main-nav {
+  text-align: center;
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.thumbnail {
+  width: 300px;
+  background-color: #eee;
+}
+
+.caption h4{
+  color: #000;
+}
+
+.caption p{
+  color: #888;
+}
+
+.thumb-nav {
+  text-align: center;
+  background-color: #eee;
+  border: 5px white solid;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.thumb-nav h4{
+  color: #000;
+}
+
+.thumb-nav p{
+  color: #888;
+}
